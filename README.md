@@ -1,4 +1,4 @@
-# toy-transformer
+# Toy-transformer
 A minimal educational Transformer model in PyTorch
 
 # What you’ll get
